@@ -11,9 +11,9 @@ window.APP_CONFIG = {
   },
   menusAppList: [
     {
-      label: 'KGSearch',
-      value: 'kg-search',
-      base: 'http://192.168.3.103:8081'
+      label: 'Test',
+      value: 'test',
+      base: 'http://127.0.0.1'
     }
   ]
 }
