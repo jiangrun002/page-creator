@@ -1,6 +1,22 @@
 {
   "logo": "",
-  "menus": [],
+  "menus": [
+    {
+      "id": 2,
+      "label": "chatgpt",
+      "value": "https://chat.forchange.cn/",
+      "type": "menu",
+      "isDefault": false,
+      "icon": "https://chat.openai.com/favicon-32x32.png",
+      "align": "end",
+      "target": "_self",
+      "boundary": false,
+      "isHref": false,
+      "isHide": false,
+      "hideHead": true,
+      "defaultValue": []
+    }
+  ],
   "APPName": "",
   "APPTitle": "",
   "css": "",
