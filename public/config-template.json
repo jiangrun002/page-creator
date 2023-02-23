@@ -1,0 +1,240 @@
+{
+  "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAA4CAYAAAB6+vMDAAAAAXNSR0IArs4c6QAAEP5JREFUeF7tnAtwXNV5x//f2ZVkbAhSpgl1CIlNChPyqO3wmAwhIENagptMbGytpN21LRECAfOwednYDF7jALZDYjUEXAewZaR9aCULQ4CmacAuaUjLy6JpOwVCUEN4hBQQIcTWSvf8O+feu7t3hR4rWVg70j3jseS9595zznd++53vdS3wmy+BCZSATODY/tC+BOAD6EMwoRLwAZxQ8fuD+wD6DEyoBHwAJ1T8/uA+gD4DEyoBH8AJFb8/uA+gz8CESsAHcELF7w/uA+gzMKES8AGcUPH7g38gANYneAwCOE2IagHmAZgNGmHbf5kfLxHcT6h9AJ5IhuX3/lZMTQmMK4CxGNXzJ+FsEVwK4jQAx2aZGwBgVtqvGABJufPEF/BoLCZ6am7D1F31uAEY7eQc9uM7AL4KIOiC1w3iIwBmDADwPQBvg/i4qxH7AfxEKDe0LpVnp+52TL2VjwuAkQ6uAPH3IAKuCF8FERNBJTUuA/CJAgA1fiuQuzXwewHXg/iYC6IFypXxZXLH1NuKqbniQwYw2sHvkrjGBciU1zzMAC5GPz4J4CEQR2eveWxA89Hb0PL1gIVurfgjChbkTETN2xLLA9dOzS2ZWqs+JABt+IBrcuAQexIhWRRNcQ4FXXnwsv5HzgnJOiNQIue0hOXRcNy6S7RcaPsopht9CKcCimMGMNrBqwh8zwPZC+oA5rUsk/ciaf4niM8WAyCAtzJlcnx7SN6JtOi9AKptAG0GZUVyudxZ7EbUbeMsFdQN8LgyWqvm1CXSPfAZ9T/kShFdmeurgXKtmppXSY+3b91WzhKtF2rKWUJU5pwqTWPf/q/TV+8Dgt2p6/Pj1G3sq4ZW1e51W/mnYmWxkdZSd0NftdZw7zOPBtKbBr8vdF3/QijOBWUOgcrsswXogfBZ0apHlO46eDDYtaepcF0jzeNwXR8TgJE0PyMKvzCLFsG/UuOLQixsDclD0TQvI3B7ofdrC9Ic0xkIbwUxwwunaG5tXRq4qm4nZwWCfIZEBsAxIHokIF+KR+W/ixFI9C5Wa3CvPbYLsdYyP3WJmHBProXvYAPBnS7lTl/KvuQVan62U8NWVh4k7wPpwJB9pufZhZ+xMbUu2Jy9v/YmayuAlTnbl0YEel57rNw5GYZoobX99wFY6JVfZlqgak8sD1DNtZm5opTpN6sYuSjh/NSmsgIZFHPf4egzegBJiXbiQRALSDwE4ACAD8Vr5NyLtrPsvSqYhZ7uEeCfCEQTdXK/WVAkyXNAmt9dz9je3AOZcplptGC0xfo+KSdRMB0aZwJ4OLFMvgYRF6mhxVIsgPV36pdAd/OMujV/+tXs1CpHgxn4DkDvFWJuwRfJC+FAKEXPT12f3+TajXqvDW82/unc29y2Idg41Arq1nCWVtZL3i+nuV+hEKDQ6n7Tpyj4zLMyvYGqSaMBo+2shoKtZSg4A8D3oRGIL8GpsQ2Q50/CdhFcmNs44JvxWtkRTjEixFHxevmHaIILCXbkvGbiybI+ObO5UQ5GW3Vaa5yqRBZrzccMqErL/NbGQi022CYWA2D4DitGEeN5O80AqNGUvCKwKvvMuiZrJ4gGryYdSQNOy6iqZo+WGgLAnl4JzPZqM+86Qjf0xaBl/XAA1q3pq9YUY6oU3dKbg6NXNEU//dA6jmpiS+/lDMzAPQRqQexpXYzzI514ExpVJC5OhORHtSl+KqjQBeJIANvjtfLtSBuXQ6PZqABCrk3Uy23RuBUjHGFrkdOTYfllOM65ovk0CZ1YpsrCzdY2iHwbQHtApNHYl8MtdyQAjWbrraDRHnlbjuyp6FOzvbZffZP1NrP2Xt5vahKtbS0OE7W0m2PjkTKnba1a5J3bEABCBI2pWP6oLgBwXb9HM2e/IIUasPY6ayWF5njPNaGsatsSaPJ+ZoOqpVIgswZeOzRkxvfuUQEY3s35CngAwJEglrQukd2RDtsYNyGXV8uIk5tD8no0za8SWJ0Bzi3P4KMI4mVvHJBaTklE5OlIXD9OSGciIreZZUVatNF4X6bGq4nl6thwM0+G8N9A9ENkQWL58N/8kQAMb7Ni5EANw1XJy/KbV7e1r1pE7XU88ZwtuSF1dWBEB6IYAAHsa9sQzNmaOa1rnA+j2XKaeXAAQ2v6Ysiuwe1SyhpuJFxHBWBkNzcLcB2AN8qD+Ksd35B3w2nOVYIdNDlf4ucZYH57SCwzcE2aR1Zo7CDRC+JnokBSnwbiwxUH1MWvzUTmHxdIr+kbjls7REujAPv7KZeklsm/25/v0s+AmEdwS7IhsHqsGtB4yAIaDeM052dXcoUyuepcGxRAreenrh2dET+UBjQDiQRmp2KFnnntuv6dhHvs5+dnz9NrA05pAKOd/BmIcwD0UGNpvEYeNLK66Mec/ueDqCVxE4hEPIQ1xmm44H4edbAXJyVC8oR3k02csFfhxfaQ/Ml8Hm2xNlEkQsqaaRk8sOOb8q6tEXdxEcEdMMch8EiiQX1l7ABaOwXi2HXuBtN4yJcX2pbjB6C1HzknxnF08nYxm9o2lOVszoUxVpb3WW97vhj5vuY+waL0rcE95vpgRzAFje2bBj/WR9JAE319VBowupu/sStbnA3sJ5CGoCm+WJ50NV55hcbnyo/AC0Y7ehdXn+Bng4IjWurlKe/nF9zDozLlOIGCX8ej8kdbyLt4YgD6ckBW2OJ3oHkp0aCOHwuAttYx4ZlCzbInuaLQbjOXxxFAY/C6IA0AkOhpuylYlV1L7TprJeHadYMcwQA3ZGOBwzgh3QLs04J/6TsY2FOqXu/A/RstgC8CcCBwZer+vg+CNqXQ2XK+vDFwkEiKfwvin1wn5KpEvRQY0dn+kVaeB+h6alk6iDb4TaJBfWosAIrY+eZ8PM8O+8nswQLUHyCAPa4md2SnsCgdc7XaDdZ+knM9ay7o6wXQ9CkmDEPA7MmuUteMowXQRP4/IaaECjCGeg8Fb4mFjxD4QznwgHFCBkISTXE7iYtcavfGw+rsgX3qkjwuYKER5Oc1+TuxvWg5DoIToG3ouxMNytG+Q7TBnBBCFoE0YRUnU5C1/S4ttP2yjywWwLpbOQvQDfZ9buYltS7vqNRutAo0oBCNJNzgtz2PPW0bg4tq1mbmKqX2Z7M/ILoB7so5Gk4cMacBzb/cQLTR6Lnsx1AyEaC5bfPQscfh5Hk4ro0WQAPXMSK4qeV815v0zNIEol8+DirrWGQv1ad5RsBCJ8HpgFwRr5cd3sVdtJ3T367CjPaQ/MH7+Xk/YEXVh/T33KP4tUSDcqpmRgGgyYQo6OpsyCdrhwmlMbFCcpmL0QPYVw1RBVmX1NpATp4DAexloKqCdpA5FwISFZjNPms9BA15ALnB+aJ4vfVCAM3lhStZWTbNWijEN+zMyTCtlG3E0QL4PIATSHTGl8his+ZwBxcojeOpcAY0nhOgpTUkv3aESMlmMKItnKkVjkhExNiRMMWr2QLUSCtPFeoQYTSpepzAm8koOs294Xt1BzTMWC8kGtSJYwFw2jR09R7kfjt7kLexeioyUhD/M88uXgOODsC29UGpXd+3FRA3PWdDtgqkiYVWZgHMlAWqyjP9K0cCcKAcbNsQqAZl+cAsSSlrwdECaFJvCwA822vhZBNuiXTQAqEAdJK4JRGSp7PCaUjzL/s1vmZp/Dhbdt+wk5WZctRT0J4My/9l+y69l2drZdcVnm8nJ8rk2E8/h9efm81nhJgDwcOJ5ervxgKgyQWHt7n5X6+RL2xKXprPgIwXgMarrQhoU3Cbc0IMgHUxzqLRgt455AovjKOE5rabg42htZ5Yn1MZ1JTenPeah5OB0YzlFZbzZXObsQfbN78/9ng4jtiRxhgVgJ44YMYi5iSXyP9EO/gGiXS8Rkzhqd0ibfwWgL+Y0YPb/lyJW0gsAfHPjrEkXwb51CszVePM13Cegj47Hs5DEGmx7iDl0r5pUhF8D8eL4rMgyg81DmjmVb/N5GcLnRGBzEuskFyBwHhoQFMJQ3iPZ8IAaOZQu76/cA4eAO2ige+U7RsIoA3QpuIBqlndv1eMNpxsAIZ380wF7DZwCbC6ZbFsCXfwOQA/TSyRy8O7+UmxTMrNHAWADuAkA2kkZQeAZ7nq4EAmIDNNjry8j781zwLxRFmfnNvcKD2RVq6j5jWJZaqqfhcvFPAuEG8Ccn6iQUymZMg2Uiakbhurhe8Lx+xLXpavghkMQAJNbVcP0JS3Dn0EDwdgKNa/UDRMJUtBbJCUrvTNATso7gM4xBabXDBn4G5jKpH4r/hifD7SiR9C46x4jXyuJs2jy00tWla4gp/HQ3JmNMUvkHgQwiNAWRKvl0ciSWsntDheJPFuplw+ZgLT0Rb9gNaYnliuvlLfrB8TgdGYqYBSFx5qLtg+YrdZO4XegLSJiXBR8nInJGJrymJywUqZL5lT1OBqsawTMhyAtha80a1m8dyrNRrbb3GCycMB6HjAgZ0Qfb8yoRZTh7gpn1WxawTFBdxdz6SxAc163Hzwo24csEFrPK8Ej4P463hIfhVOs0OAxTk7RyMZr5fw0jQ/AQsfNYHocJyrRbgp75GivTWqQnY513S+DC2rtQnvkCbvbI7ts0fKA5teI2lAB0DOEtJkKdywjE1Pd0WfmpctSBhLNYx5SLEA1t3Y5xRi5AHs6Q3mq2SGA3CwTMhwp4L9/S7hTMmobMDsQqO7mQZRQ+B1k78UYhcFqcQSWRlN828I/NRraAsQb62TqA1wkjcIuTGnJQ1eWha1LpU9kVYuF3K71lIL4c1uVXV7YrkKjSTkYgG052BKstxKHLsci2YO2JC40onjjakecBQAjrSWYQFc7eaMR3pI/npPpjcwu1QzI2MCcGmas6HwlAY+DOBXQrxD4Iv9Fj7dVicvhtN8RAgn2Jz3+B4B9BuA1A8oCPhlPKJOr0kzUH6QL0HQTW0qp3EOiLcCIqe0LBOnSHOEVowGzALWW54Ny+TTZLQGFKVq7hTQibF5q2MGerHOI3ra1gbs9FpoY/9Cgdzn0XBdbesd+66YZpflW27ljz2udKU3u/ahUw1zZTFBaKPZqfWi9u8OX4VdzJw+qD5jAtDWNu1spMAJKBN9AMpAPBgPydfDaZ4shJPzLcht5ovrstcIOSsRkceM8wHSvFd8gMQR9q1aLkg2iJM9KKKN5p2QuttZrZSu9r4TQsUury1ohhzqnRCSXaLxjpifDHQn1nk8afM+iKkVzL6bIuxO3Vh8sYBTGd1fkGUZ+F5IPu6Howlx0nh2ztt5HwRautJb8nZtEeKbkC5jBtDMNtLOzRBcV3DcCja31siaSBsvAHDPsACarEhYbg/HeZGQ29x4onsqckty2fDlVxMiMX/QcZXAIQHoQngLgOu92o7E3Yla+Zb9gpLG7flreQ1IkSsT9fKDSKu1BRDnHWD3siZvTS4LrB3XlfoPK0kJHDKAZlXhNBtE0JR7Cd05Cv4Dpj4QOJXE1SCCLmHvQXOrQL1A0NgyX/BoyXdIWZlY9v4cbUlKz5/UIUtgXAC0NWGanwFgEunm/4YxJftOI4wDYYLNR7kA/hGEScEd7+ljClN/Asj6Yl/BPOSV+w8oCQmMG4DZ1UTa+CURREicYrTfCE7IkwI+Rap4PCq/KAmJ+JM4rBIYdwCzszfvg5RrnA7Bx0XjWAAznVyweo3AKxD8LqPweLYs/7Cu2h+sZCTwgQFYMiv0J1LSEvABLOntmfyT8wGc/Htc0iv0ASzp7Zn8k/MBnPx7XNIr9AEs6e2Z/JPzAZz8e1zSK/QBLOntmfyT8wGc/Htc0iv0ASzp7Zn8k/MBnPx7XNIr/H+229/AXLSMWgAAAABJRU5ErkJggg==",
+  "layout": "default",
+  "menus": [
+    {
+      "id": 9,
+      "label": "项目空间管理",
+      "value": "",
+      "type": "menu",
+      "isDefault": true,
+      "icon": "ic-zsjm-gndy",
+      "isHide": true,
+      "boundary": true,
+      "align": "end",
+      "children": [
+        {
+          "id": 19,
+          "label": "运营报表",
+          "value": "/kg-search/home/hideHead/report",
+          "isDefault": true,
+          "icon": "ic-system",
+          "children": []
+        },
+        {
+          "id": 20,
+          "label": "索引管理",
+          "value": "/kg-search/home/hideHead/index",
+          "icon": "ic-index",
+          "boundary": true,
+          "children": [
+            {
+              "id": 30,
+              "label": "索引模式设计",
+              "value": "/kg-search/home/hideHead/index/pattern/design/:id",
+              "type": "submenu"
+            },
+            {
+              "id": 31,
+              "label": "数据管理",
+              "value": "/kg-search/home/hideHead/index/data/:id",
+              "type": "submenu"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "label": "功能管理",
+          "value": "",
+          "icon": "ic-function",
+          "children": [
+            {
+              "id": 32,
+              "label": "基础配置",
+              "value": "/kg-search/home/hideHead/skill/list",
+              "isDefault": true,
+              "boundary": true,
+              "children": [
+                {
+                  "id": 34,
+                  "label": "配置编辑",
+                  "value": "/kg-search/home/hideHead/skill/detail/:id",
+                  "type": "submenu",
+                  "icon": "iconfont iconxinjianxiangmu"
+                }
+              ]
+            },
+            {
+              "id": 33,
+              "label": "推荐配置",
+              "value": "/kg-search/home/hideHead/recommend/list",
+              "boundary": true,
+              "children": [
+                {
+                  "id": 35,
+                  "label": "配置编辑",
+                  "value": "/kg-search/home/hideHead/recommend/detail/:id",
+                  "type": "submenu",
+                  "icon": "iconfont iconxinjianxiangmu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "label": "运营管理",
+          "value": "",
+          "icon": "ic-operation",
+          "children": [
+            {
+              "id": 36,
+              "label": "业务排序",
+              "value": "/kg-search/home/hideHead/business/order",
+              "isDefault": true
+            },
+            {
+              "id": 37,
+              "label": "热搜配置",
+              "value": "/kg-search/home/hideHead/hot/search"
+            },
+            {
+              "id": 38,
+              "label": "热点配置",
+              "value": "/kg-search/home/hideHead/recommend/detailHotsPot"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "label": "日志管理",
+          "value": "",
+          "icon": "ic-description",
+          "children": [
+            {
+              "id": 39,
+              "label": "搜索日志",
+              "value": "/kg-search/home/hideHead/search/log"
+            },
+            {
+              "id": 40,
+              "label": "反馈日志",
+              "value": "/kg-search/home/hideHead/feedback/log"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "label": "词库管理",
+          "value": "/kg-search/home/hideHead/dictionary/list",
+          "icon": "ic-word1",
+          "boundary": true,
+          "children": [
+            {
+              "id": 41,
+              "label": "词库编辑",
+              "value": "/kg-search/home/hideHead/dictionary/detail/:type/:id/:title",
+              "type": "submenu",
+              "icon": "iconfont iconxinjianxiangmu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "label": "搜索预览",
+      "value": "/kg-search/preview/:nsId",
+      "type": "menu",
+      "isDefault": false,
+      "boundary": false,
+      "children": [],
+      "icon": "",
+      "align": "start",
+      "target": "_blank",
+      "isHref": false,
+      "hideHead": true,
+      "defaultValue": [
+        {
+          "key": "nsId",
+          "value": 1,
+          "type": "params"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "label": "开放平台",
+      "value": "/kg-search/development",
+      "type": "menu",
+      "isDefault": false,
+      "boundary": false,
+      "children": [],
+      "icon": "",
+      "align": "end",
+      "target": "_blank",
+      "hideHead": true,
+      "isHref": false
+    },
+    {
+      "id": 10,
+      "label": "后台管理",
+      "value": "",
+      "type": "menu",
+      "icon": "",
+      "boundary": true,
+      "align": "user",
+      "children": [
+        {
+          "id": 25,
+          "label": "项目空间管理",
+          "value": "/kg-search/home/hideHead/backstage/project",
+          "isDefault": true,
+          "children": []
+        },
+        {
+          "id": 26,
+          "label": "索引备份记录",
+          "value": "/kg-search/home/hideHead/backstage/index/backup"
+        },
+        {
+          "id": 27,
+          "label": "索引重建记录",
+          "value": "/kg-search/home/hideHead/backstage/index/rebuild"
+        },
+        {
+          "id": 28,
+          "label": "后台接口调试",
+          "value": "/kg-search/home/hideHead/backstage/debugger"
+        },
+        {
+          "id": 29,
+          "label": "语义向量计算",
+          "value": "/kg-search/home/hideHead/backstage/dense",
+          "boundary": true,
+          "children": [
+            {
+              "id": 42,
+              "label": "任务列表",
+              "value": "/kg-search/home/hideHead/backstage/dense/task/:apiId",
+              "type": "submenu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "APPName": "demo",
+  "APPTitle": "页面编排Demo",
+  "css": "",
+  "needLogin": true,
+  "theme": "default",
+  "themeColor": "#ff9800",
+  "titleAutoUpdate": true,
+  "updateUrl": true,
+  "params": {
+    "kgName": "default_user_graph_default",
+    "APK": "445a793dd0314abd875b7980d7ffbbd6",
+    "nsId": 80
+  }
+}

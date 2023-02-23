@@ -1,0 +1,14 @@
+{
+  "logo": "",
+  "menus": [],
+  "APPName": "",
+  "APPTitle": "",
+  "css": "",
+  "layout": "default",
+  "needLogin": false,
+  "theme": "default",
+  "themeColor": "#00b38a",
+  "titleAutoUpdate": true,
+  "updateUrl": false,
+  "params": {}
+}
