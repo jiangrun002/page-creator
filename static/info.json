@@ -1,15 +1,15 @@
 {
-    "versionInternal": 136,
-    "updateTime": "2023/2/23-17:56:12",
-    "timestamp": 1677146172294,
-    "publishTime": "2023/2/23 18:04:24",
+    "versionInternal": 141,
+    "updateTime": "2023/3/7-11:58:19",
+    "timestamp": 1678161499711,
+    "publishTime": "2023/3/7 13:27:07",
     "author": [
         "192",
         "168",
         "19",
         "1"
     ],
-    "version": "2.4.x",
+    "version": "2.5.x",
     "source": "branch",
     "remote": "product/front/studio/page-creator,product/front/vue2-template"
 }

@@ -7,8 +7,17 @@
    */
   window.APP_PRIMARY_COLOR = window.APP_PRIMARY_COLOR || '#00b38a'
   var themeMap = {
-    default: {},
-    dark: {}
+    default: {
+      monaco: {
+        theme: 'vs'
+      }
+    },
+    dark: {
+      monaco: {
+        theme: 'vs-dark'
+        // theme: 'hc-black'
+      }
+    }
   }
   var hideOnlyChild = true
   var layoutMap = {
@@ -206,27 +215,32 @@
    */
   window.APP_SYSTEM_CONFIG = {
     APPName: 'plantdata',
+    allowOrigins: [],
+    apps: [],
+    autoBackToIndex: false,
     configNsId: null,
     configBaseURL: '',
-    theme: theme,
-    verifyConfig: verifyConfig,
-    logParamInHeader: true,
+    css: '',
+    editLogoPreview: false,
+    element: layoutMap[layout].element,
+    emitRouteChange: true,
     layout: layout,
     layoutMap: layoutMap,
-    navProps: layoutMap[layout].navProps,
-    slot: layoutMap[layout].slot,
-    pageSlot: layoutMap[layout].pageSlot,
-    element: layoutMap[layout].element,
+    logParamInHeader: true,
+    menus: [],
+    menusDefaultValue: {}, // 菜单参数默认值
+    monaco: themeMap[theme].monaco,
     // isDev: false,
+    navProps: layoutMap[layout].navProps,
     needLogin: true,
-    titleAutoUpdate: true,
-    updateUrl: true,
-    allowOrigins: [],
+    pageSlot: layoutMap[layout].pageSlot,
+    slot: layoutMap[layout].slot,
     targetOrigin: window.location.origin,
     // targetOrigin: '*',
-    emitRouteChange: true,
-    autoBackToIndex: false,
-    menus: [],
-    menusDefaultValue: {}
+    theme: theme,
+    titleAutoUpdate: true, // 页签标题是否自动更新
+    updateUrl: true,
+    useVuex: true,
+    verifyConfig: verifyConfig
   }
 })()

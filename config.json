@@ -1,4 +1,10 @@
 {
+  "APPName": "chatgpt",
+  "APPTitle": "",
+  "apps": null,
+  "css": "",
+  "favicon": "",
+  "layout": "default",
   "logo": "",
   "menus": [
     {
@@ -17,14 +23,10 @@
       "defaultValue": []
     }
   ],
-  "APPName": "",
-  "APPTitle": "",
-  "css": "",
-  "layout": "default",
   "needLogin": false,
+  "params": {},
+  "primaryColor": "#00b38a",
   "theme": "default",
-  "themeColor": "#00b38a",
   "titleAutoUpdate": true,
-  "updateUrl": false,
-  "params": {}
+  "updateUrl": false
 }
